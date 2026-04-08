@@ -2,7 +2,7 @@ Description
 -----------
 The CerradoCoffeeLeaf dataset is composed of RGB images of Coffea arabica leaves collected under field conditions. The images were acquired using a handheld mobile device (Motorola Moto G6 Plus) at the Francisco de Melo Palheta Experimental Field, Federal University of Viçosa (UFV-CRP), Brazil. As a result, the dataset presents natural variability in illumination, background, occlusion, leaf orientation, and disease severity.
 
-The dataset contains 1,476 images distributed across seven classes: Ascochyta, Aureolate Leaf Spot, Cercosporiosis (Cercospora coffeicola), Coffee Leaf Miner (Leucoptera coffeella), Phoma Leaf Spot, Coffee Leaf Rust (Hemileia vastatrix), and healthy leaves.
+The dataset contains 1,476 images distributed across seven classes: Ascochyta, Bacterial Blight, Cercospora (Cercospora coffeicola), Coffee Leaf Miner (Leucoptera coffeella), Phoma Leaf Spot, Coffee Leaf Rust (Hemileia vastatrix), and healthy leaves.
 
 The dataset is released with predefined stratified splits of 64%, 16%, and 20% for training, validation, and test sets, respectively. It is provided at two image resolutions: the original resolution (3024 × 4032 pixels), including image metadata, and a resized version (1024 × 1365 pixels), which was used in the experiments reported in the associated manuscript. CSV files listing image filenames and their corresponding class labels are provided for each split.
 

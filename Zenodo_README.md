@@ -4,7 +4,7 @@ CerradoCoffeeLeaf is an in-the-wild dataset for coffee leaf disease classificati
 
 The CerradoCoffeeLeaf dataset is composed of RGB images of Coffea arabica leaves collected under field conditions. The images were acquired using a handheld mobile device (Motorola Moto G6 Plus) at the Francisco de Melo Palheta Experimental Field, Federal University of Viçosa (UFV-CRP), Brazil. As a result, the dataset presents natural variability in illumination, background, occlusion, leaf orientation, and disease severity.
 
-The dataset contains 1,476 images distributed across seven classes: Ascochyta, Aureolate Leaf Spot, Cercosporiosis (Cercospora coffeicola), Coffee Leaf Miner (Leucoptera coffeella), Phoma Leaf Spot, Coffee Leaf Rust (Hemileia vastatrix), and healthy leaves.
+The dataset contains 1,476 images distributed across seven classes: Ascochyta (*Ascochyta coffeae*), Cescospora (*Cercospora coffeicola*), Miner (*Leucoptera coffeella*), Phoma (*Boeremia exigua pv. coffeae*), Bacterial Blight (*Pseudomonas syringae pv. phaseolicola*), Rust (*Hemileia vastatrix*), and healthy leaves.
 
 The dataset is released with predefined stratified splits of 60%, 16%, and 20% for training, validation, and test sets, respectively. It is provided at two image resolutions: the original resolution (3024 × 4032 pixels), including image metadata, and a resized version (1024 × 1365 pixels), which was used in the experiments reported in the associated manuscript. CSV files listing image filenames and their corresponding class labels are provided for each split.
 
@@ -35,12 +35,12 @@ The dataset includes both diseased and healthy leaves with natural variations ca
 
 The dataset contains the following classes:
 
-1. **Ascochyta**
-2. **Aureolate Leaf Spot**
-3. **Cercosporiosis** (*Cercospora coffeicola*)
-4. **Coffee Leaf Miner** (*Leucoptera coffeella*)
-5. **Phoma Leaf Spot**
-6. **Coffee Leaf Rust** (*Hemileia vastatrix*)
+1. **Ascochyta** (*Ascochyta coffeae*)
+2. **Bacterial Blight** (*Boeremia exigua pv. coffeae*)
+3. **Cercospora** (*Cercospora coffeicola*)
+4. **Miner** (*Leucoptera coffeella*)
+5. **Phoma** (*Boeremia exigua pv. coffeae*)
+6. **Rust** (*Hemileia vastatrix*)
 7. **Healthy**
 
 ---
@@ -69,7 +69,7 @@ CerradoCoffeeLeaf_[resolution]/
 ├── train/
 │ ├── Ascochyta/
 │ ├── AureolateLeafSpot/
-│ ├── Cercosporiosis/
+│ ├── Cercospora/
 │ ├── Miner/
 │ ├── Phoma/
 │ ├── Rust/
@@ -92,7 +92,7 @@ For each split (`train`, `val`, `test`), a CSV file is provided with the followi
 
 | filename | class_idx | class |
 |---------|-----------|-------|
-| IMG_001.png | 2 | Cercosporiosis |
+| IMG_001.png | 2 | Cercospora |
 | IMG_002.png | 3 | Healthy |
 
 - **filename:** image file name
