@@ -159,6 +159,7 @@ If you use this dataset, please cite the dataset and the associated paper:
   title={CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Classification and Cross-Dataset Generalization},
   author={Oda, Otávio Massanobu de Souza and Good God, Pedro Ivo Vieira and Silva, Leandro Henrique Furtado Pinto and Mari, João Fernando},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
+  doi={DOI},
   year={2026}
 }
 ```
