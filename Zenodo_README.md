@@ -12,7 +12,7 @@ The dataset is intended to support research on image classification for plant di
 
 The dataset is associated with the manuscript:
 
-"CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Recognition and Cross-Dataset Generalization"
+"CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Classification and Cross-Dataset Generalization"
 
 ---
 
@@ -156,7 +156,7 @@ If you use this dataset, please cite the dataset and the associated paper:
 
 ```bibtex
 @article{oda2026cerradocoffeeleaf,
-  title={CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Recognition and Cross-Dataset Generalization},
+  title={CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Classification and Cross-Dataset Generalization},
   author={Oda, Otávio Massanobu de Souza and Good God, Pedro Ivo Vieira and Silva, Leandro Henrique Furtado Pinto and Mari, João Fernando},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2026}

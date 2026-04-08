@@ -23,4 +23,4 @@ Coffea arabica
 Notes:
 ------
 Associated manuscript: 
-Oda, O. M. S., Good God, P. I. V., Silva, L. H. F. P. & Mari, J. F. CerradoCoffeeLeaf: An in-the-wild dataset for coffee leaf disease recognition and cross-dataset generalization. arXiv preprint arXiv:XXXX.XXXXX (2026).
+Oda, O. M. S., Good God, P. I. V., Silva, L. H. F. P. & Mari, J. F. CerradoCoffeeLeaf: An in-the-wild dataset for coffee leaf disease classification and cross-dataset generalization. arXiv preprint arXiv:XXXX.XXXXX (2026).

@@ -1,4 +1,4 @@
-# CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Recognition and Cross-Dataset Generalization
+# CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Classification and Cross-Dataset Generalization
 
 - Otávio Massanobu de Souza Oda  
 - Pedro Ivo Vieira Good God - pedro.god@ufv.br  
@@ -243,7 +243,7 @@ If you use this dataset or code, please cite:
 
 ```bibtex
 @article{oda2026cerradocoffeeleaf,
-  title={CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Recognition and Cross-Dataset Generalization},
+  title={CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Classification and Cross-Dataset Generalization},
   author={Oda, Otávio Massanobu de Souza and Good God, Pedro Ivo Vieira and Silva, Leandro Henrique Furtado Pinto and Mari, João Fernando},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2026}
@@ -276,7 +276,7 @@ coffee leaf miner and coffee leaf rust (2019). 1904.00742.
 4. Krohling, R. A., Esgario, J. & Ventura, J. A. Bracol–a brazilian arabica coffee leaf images dataset to identification and
 quantification of coffee diseases and pests. Mendeley Data 1, DOI: 10.17632/yy2k5y8mxg.1 (2019).
 5. Parraga-Alava, J., Cusme, K., Loor, A. & Santander, E. Rocole: A robusta coffee leaf images dataset for evaluation of
-machine learning based methods in plant diseases recognition. Data brief 25, 104414 (2019).
+machine learning based methods in plant diseases classification. Data brief 25, 104414 (2019).
 6. Parraga-Alava, J., Cusme, K., Loor, A. & Santander, E. Rocole: A robusta coffee leaf images dataset. Mendeley Data 1,
 DOI: 10.17632/c5yvn32dzg.2 (2019).
 7. Sunde, B. M. early-stopping-pytorch: A pytorch utility package for early stopping. https://github.com/Bjarten/early-stopping-pytorch (2024).

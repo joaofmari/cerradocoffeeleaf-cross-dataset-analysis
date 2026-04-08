@@ -1,5 +1,5 @@
 # %% [markdown]
-# # CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Recognition and Cross-Dataset Generalization
+# # CerradoCoffeeLeaf: An In-the-Wild Dataset for Coffee Leaf Disease Classification and Cross-Dataset Generalization
 # 
 # - Otávio Massanobu de Souza Oda 
 # - Pedro Ivo Vieira Good God -- pedro.god@ufv.br  
